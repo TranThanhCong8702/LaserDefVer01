@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96cbcc69be72c8548b0b5a55e3e0a43a, type: 3}
+  m_Name: New Ship Database
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 2b5d403abe331c6439b78fd6fd373ad6, type: 3}
+  - {fileID: 21300000, guid: 55d49e499c249384db7fd5a13ce42636, type: 3}
+  - {fileID: 21300000, guid: e53788a48d68c6648bf5bda4c905f25b, type: 3}
+  - {fileID: 21300000, guid: 9a85a9c751ebebd4f99c9a1b9f9291ba, type: 3}
+  - {fileID: 21300000, guid: 454412e9fb8842144b3d8eb891699e2f, type: 3}
+  - {fileID: 21300000, guid: 6b8950b50b507be4db7049f5ed421326, type: 3}
+  - {fileID: 21300000, guid: 19d79548da33f5d48b0b27f1706c670d, type: 3}
+  - {fileID: 21300000, guid: e01d01eaa01b2f84cab40fd0cd37320c, type: 3}
+  - {fileID: 21300000, guid: 21335a9be519be84ca8643d3891aeaaf, type: 3}
+  - {fileID: 21300000, guid: 0a1d8003aa367a14fb5e280dc688d446, type: 3}
+  - {fileID: 21300000, guid: f23e1025de6302d419732343a9a5de99, type: 3}
+  - {fileID: 21300000, guid: da3e4974f4e283349bd2d362c65aa23d, type: 3}
